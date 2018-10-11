@@ -11,7 +11,7 @@ export default [
   },
   {
     id: '3',
-    link: '/Completed',
+    link: '/completed',
     label: 'Completed'
   },
   {
